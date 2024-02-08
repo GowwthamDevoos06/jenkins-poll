@@ -1,1 +1,1 @@
-echo "jenkins test1"
+echo "jenkins test2"
